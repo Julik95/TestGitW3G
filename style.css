@@ -12,3 +12,11 @@ p{
 	size: 12px;
 	font-style: italic;
 }
+#center{
+	text-align: center;
+}
+.special{
+	font-family: Verdana;
+	font-size: 11px;
+	color: blue;
+}
