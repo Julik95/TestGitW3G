@@ -2,3 +2,13 @@ body{
 	padding: 10px;
 	background-color: white;
 }
+h1{
+	color:red;
+	font-family: Arial;
+	size: 14px;
+}
+p{
+	font-family: Arial;
+	size: 12px;
+	font-style: italic;
+}
